@@ -1,5 +1,6 @@
-Second try initial edit - GIT(Add, commit)
+Second try initial edit - GIT(Add, commit, push, pull, ssh)
 
 #Index.html Contents
 
-1.try
+TEST
+
